@@ -8,8 +8,11 @@ Explanation:
 Patient Class: Stores basic patient information (name, age, patient ID).
 DiagnosisReport Class: Stores diagnosis report details, associated with a patient via patientID.
 HealthMonitoringSystem Class: Manages the system's main functionality, including registering patients, adding diagnosis reports, and viewing reports.
+
 How It Works:
 Register Patient: Users can add a new patient to the system.
 Add Diagnosis Report: Users can create and store diagnosis reports linked to a specific patient ID.
 View Patient Reports: Users can retrieve all diagnosis reports associated with a particular patient.
 This is a basic prototype; in a real-world scenario, you would likely integrate a database and implement security features, such as authentication, to make the system robust and secure.
+
+Output: <img width="372" alt="Screenshot 2024-08-17 at 10 03 54 PM" src="https://github.com/user-attachments/assets/2f8afb9b-016a-4eda-b2b0-46adac1dd630">
